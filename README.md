@@ -17,15 +17,7 @@
   <br><br>
   Sou um desenvolvedor web :globe_with_meridians: fullstack 
   <br><br>
-  :pencil2: Criar e :pushpin: registrar ideias :bulb:
 
-  Estudar a psicologia humana
-  Criar e conectar ideias para transformação a educação
-
-  <b>teste</b>
-
-  Testando 
-    
   </samp>
 </p>
 
