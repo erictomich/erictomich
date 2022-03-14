@@ -2,19 +2,6 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   Me chamo <b>Eric Tomich</b>...
-  <samp>
-    <br><br>
-    :sun_with_face: :aquarius: :  :last_quarter_moon_with_face: :gemini: 
-    <pre>
-      &lt;astrologicalLuminaries>
-        &lt;sun>aquarius&lt;/sun>
-        &lt;moon>gemini&lt;/moon>
-      &lt;/astrologicalLuminaries>
-    </pre>
-    <br><br>
-
-  :art: :musical_keyboard: :pencil:
-  <br><br>
   Sou um desenvolvedor web :globe_with_meridians: fullstack 
   <br><br>
 
